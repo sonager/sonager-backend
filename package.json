@@ -1,0 +1,25 @@
+{
+  "name": "sonager-backend",
+  "version": "0.0.0",
+  "description": "Each of your streamer can acces important info about your webtv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonager/sonager-backend.git"
+  },
+  "keywords": [
+    "twitch"
+  ],
+  "author": "Théo Bougé <theo.bouge@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonager/sonager-backend/issues"
+  },
+  "homepage": "https://github.com/sonager/sonager-backend#readme",
+  "dependencies": {
+    "twitch": "^1.2.0"
+  }
+}
